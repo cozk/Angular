@@ -1,6 +1,4 @@
-/**
- * Created by lzhan on 2017/1/16.
- */
+
 angular.module('NewsPub', ['ngRoute']).controller('ListController',function($scope){
 
     var newsList = [{
